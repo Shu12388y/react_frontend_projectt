@@ -1,0 +1,19 @@
+.size{
+    width: 400px;
+    height: 400px;
+
+}
+.container__design{
+    /* display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column; */
+    display: inline-block;
+    margin-left: 10rem;
+}
+.image__center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
